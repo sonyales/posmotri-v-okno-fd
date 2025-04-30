@@ -1,1 +1,1 @@
-https://github.com/sonyales/posmotri-v-okno-fd#
+https://github.com/sonyales/posmotri-v-okno-fd
