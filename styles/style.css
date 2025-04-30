@@ -19,6 +19,7 @@ html {
   background-color: #1b1919;
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 
 h1,
@@ -69,9 +70,7 @@ input {
   grid-template-areas: 'result details';
   gap: 30px;
   place-items: end;
-  width: 100%;
-  margin: 0 auto;
-  justify-content: center;
+  width: 1140px;
 }
 
 .content__details {
@@ -224,7 +223,7 @@ input[type='checkbox']:checked + .search-form__pseudo-checkbox::after {
 
 .content__list-container {
   position: relative;
-  max-height: 298px;
+  height: 298px;
   overflow-y: auto;
 }
 
